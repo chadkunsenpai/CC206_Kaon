@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695819207315",
+    "project_id": "kaon-df902",
+    "storage_bucket": "kaon-df902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695819207315:android:9ef186e586babad42d0366",
+        "android_client_info": {
+          "package_name": "com.kaon.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSjJUautw_AnCRaFpM6zv2qI_iBsxBnV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
